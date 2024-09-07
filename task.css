@@ -1,0 +1,74 @@
+header{
+    background-color: aqua;
+    padding: 15px;
+    text-align: center;
+    color: rgb(17, 14, 14);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 30px;
+    
+}
+
+.one{
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 40%;
+    border-radius: 10px;
+    border: 2px solid blueviolet;
+   
+}
+   
+
+.two{
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    left: 2%;
+}
+    
+.three{
+    position: absolute;
+    z-index: -1;
+    top:60%;
+    left: 2%;
+}
+.four{
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    right: 2%;
+}
+.five{
+    position: absolute;
+    z-index: -1;
+    top: 60%;
+    right: 2%;
+}
+.six{
+    position: absolute;
+    z-index: -1;
+    top: 110%;
+    left: 2%;
+} 
+.seven{
+    position: absolute;
+    z-index: -1;
+    top: 160%;
+    left: 2%;
+}
+.eight{
+    position: absolute;
+    z-index: -1;
+    top: 110%;
+    right: 2%;
+}
+.nine{
+    position: absolute;
+    z-index: -1;
+    top: 160%;
+    right: 2%;
+}
+
+
